@@ -7,10 +7,6 @@ This is a simple console-based Hangman game built with C++.
 2. Compile the code using a C++ compiler that supports C++11 or higher.
 3. Run the executable.
 
-```bash
-pip install foobar
-```
-
 ## How to Play
 
 ```python
